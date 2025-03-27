@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 
 abstract class Cutter  {
-
+//Ari is the goat
     protected int num;
     double rc;
     Random rand = new Random();
