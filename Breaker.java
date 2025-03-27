@@ -1,4 +1,4 @@
-Joss
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Random;
@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 
 abstract class Cutter  {
-//Ari is the goat
+//Snooty is the goat
     protected int num;
     double rc;
     Random rand = new Random();
